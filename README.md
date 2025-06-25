@@ -4,11 +4,11 @@
 
 ## Технические требования
 
-Frontend: Next.js 15+, React 19, TypeScript
-Styling: Styled-components (как в основном проекте) или Ant Design
-State Management: Redux Toolkit (уже используется в проекте)
-Формы: React Hook Form + Zod валидация
-Данные: Redux store + localStorage для персистентности
+- Frontend: Next.js 15+, React 19, TypeScript
+- Styling: Styled-components (как в основном проекте) или Ant Design
+- State Management: Redux Toolkit (уже используется в проекте)
+- Формы: React Hook Form + Zod валидация
+- Данные: Redux store + localStorage для персистентности
 
 ## Функциональные требования
 1. Основной функционал (обязательно)
